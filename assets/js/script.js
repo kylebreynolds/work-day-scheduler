@@ -1,5 +1,5 @@
 //variables//
-var now = moment()
+var now = moment().format("LLLL");
 
 //display current day's date at top of page//
 const currentDate = $('#currentDay');
