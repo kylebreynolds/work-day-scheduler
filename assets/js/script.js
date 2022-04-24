@@ -28,7 +28,7 @@ currentDate.text(now);
 
 
 
-// save list item to local storage //
+// save input to local storage //
 
 save9Btn.on("click", function() {
     var hr9 = document.getElementById("9").value;
